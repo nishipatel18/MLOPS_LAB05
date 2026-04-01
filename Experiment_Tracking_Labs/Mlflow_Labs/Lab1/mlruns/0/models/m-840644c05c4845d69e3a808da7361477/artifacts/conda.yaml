@@ -1,0 +1,9 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.11.9
+- pip<=24.0
+- pip:
+  - mlflow==3.10.1
+  - scikit-learn==1.5.1
+name: mlflow-env

@@ -2,17 +2,6 @@
 
 labs covering ML experiment tracking using three tools: Python Logging, MLflow, and Weights & Biases.
 
-## Project Structure
-
-```
-Experiment_Tracking_Labs/
-├── Logging_Labs/          # Python logging basics
-├── Mlflow_Labs/
-│   ├── Lab1/              # MLflow autolog, manual tracking, model serving
-│   └── Lab2/              # End-to-end pipeline with model registry & hyperparameter tuning
-└── W&B/                   # Weights & Biases experiment tracking
-```
-
 ## Lab 1: Python Logging
 
 **File:** `Logging_Labs/Starter.ipynb`

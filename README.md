@@ -45,7 +45,3 @@ XGBoost training with W&B integration: `wandb.init()`, `wandb.config.update()`, 
 **Dataset:** Fashion MNIST (10 clothing categories, 28x28 images)
 
 CNN training (Conv2D → MaxPool → Dropout → Dense) with per-epoch metric logging, confusion matrix, sample prediction visualization (true vs predicted labels), and model artifact saving.
-
-## Author
-
-Nishi Patel — [GitHub](https://github.com/nishipatel18)
